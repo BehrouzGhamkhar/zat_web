@@ -1,5 +1,5 @@
 baseURL: http://0.0.0.0:1313/
-title: Documentation
+title: Downloads
 theme: hugo-book
 
 copyright: "This is a copyright placeholder"
@@ -43,13 +43,13 @@ menu:
       pageRef: "/docs/"
       weight: 10
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book/"
+      url: "https://github.com/BehrouzGhamkhar/zat_web"
       weight: 20
 
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book"
+      url: "https://github.com/BehrouzGhamkhar/zat_web"
       weight: 10
 
 taxonomies:
