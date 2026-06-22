@@ -7,9 +7,9 @@ weight: 1
 
 The Home screen is the default landing page displayed when you first open the Session Manager.
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *Home screen with logo and title*
-{{< /hint >}}
+
+{{< figure src="/images/HomeScreen.jpg" alt="Home screen" >}}
+
 
 ## What You See
 
@@ -21,6 +21,3 @@ The Home screen is the default landing page displayed when you first open the Se
 
 Use the **side panel** on the left to navigate to any sensor view or control panel. The Home screen itself has no interactive controls — it is simply an entry point.
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *Side panel open with navigation links highlighted*
-{{< /hint >}}

@@ -101,9 +101,8 @@ The output will be placed in the `build/` directory and can be served with any s
 
 Once the app is running, open it in your browser. You should see the Session Manager home screen:
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *Home screen on first load*
-{{< /hint >}}
+{{< figure src="/images/HomeScreen.jpg" alt="Topic Configuration" >}}
+
 
 If the UI loads but sensor panels show no data, check that:
 

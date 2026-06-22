@@ -7,9 +7,8 @@ weight: 4
 
 The eSense page displays live **temperature data** from the eSense earable sensor. It connects to a single device and plots a real-time temperature graph.
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *eSense page with the Temperature panel expanded and live data visible*
-{{< /hint >}}
+{{< figure src="/images/EsensePanel.jpg" alt="Esense Panel" >}}
+
 
 ---
 
@@ -24,7 +23,7 @@ The page contains a single **collapsible Temperature panel** that holds the grap
 The panel plots **skin temperature in degrees Celsius (°C)** over time, sampled from the eSense device worn in the ear.
 
 {{< hint info >}}
-📸 **Screenshot placeholder** — *Close-up of the Temperature graph showing a smooth temperature curve*
+ Screenshot placeholder — Close-up of the Temperature graph showing a smooth temperature curve
 {{< /hint >}}
 
 ### Graph Details
@@ -44,12 +43,8 @@ The panel plots **skin temperature in degrees Celsius (°C)** over time, sampled
 
 Click the **Temperature** header to toggle the graph:
 
-- **▼** — panel is expanded (graph visible)
-- **►** — panel is collapsed
-
-{{< hint info >}}
-📸 **Screenshot placeholder** — *Panel collapsed, showing only the header bar with the ► icon*
-{{< /hint >}}
+- Panel is expanded (graph visible)
+- Panel is collapsed
 
 ---
 

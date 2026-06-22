@@ -7,9 +7,7 @@ weight: 3
 
 The EmotiBit page displays live biometric data streamed from the **EmotiBit wearable sensor**. The available data streams are discovered automatically from the backend — the UI adapts to whatever the device is currently publishing.
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *EmotiBit page with several stream panels expanded*
-{{< /hint >}}
+{{< figure src="/images/EmotiBitPanel.jpg" alt="EmotiBit Panel" >}}
 
 ---
 
@@ -41,7 +39,7 @@ The streams displayed depend on what the EmotiBit device and backend are publish
 Some streams carry multiple channels (for example, Accelerometer has X, Y, and Z). Each channel is drawn as a separate coloured line within the same panel.
 
 {{< hint info >}}
-📸 **Screenshot placeholder** — *Accelerometer panel showing three coloured lines for X, Y, Z*
+Screenshot placeholder — Accelerometer panel showing three coloured lines for X, Y, Z
 {{< /hint >}}
 
 ---
@@ -57,9 +55,6 @@ Click a **panel header** to toggle it:
 
 All panels are expanded by default when the page loads.
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *Two panels: one expanded, one collapsed*
-{{< /hint >}}
 
 ### Reading the Graphs
 
@@ -74,9 +69,8 @@ All panels are expanded by default when the page loads.
 
 At the bottom of the page is a checkbox row — one per stream. Use these to **show or hide entire streams** across all graphs at once.
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *Stream toggle bar with some streams unchecked*
-{{< /hint >}}
+{{< figure src="/images/EmotiBitToggle.jpg" alt="EmotiBit Toggel" >}}
+
 
 | Control | Effect |
 |---|---|

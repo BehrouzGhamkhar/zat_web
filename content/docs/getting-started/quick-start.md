@@ -26,9 +26,8 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *App open in browser, home screen visible*
-{{< /hint >}}
+{{< figure src="/images/HomeScreen.jpg" alt="Home Screen" >}}
+
 
 ## Step 3 — Check Your Sensors
 
@@ -48,9 +47,8 @@ Navigate to **Saver Panel** from the side menu.
 2. Check the topics you want to record. Leave all boxes unchecked to record **everything**.
 3. Click **Send** to apply your selection.
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *Saver Panel with topics listed and some selected*
-{{< /hint >}}
+{{< figure src="/images/SaverPanel.jpg" alt="Saver Panel" >}}
+
 
 ## Step 5 — Start Recording
 

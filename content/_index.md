@@ -4,7 +4,7 @@ layout: landing
 
 <div class="book-hero">
 
-# Session Manager {anchor=false}
+# ZAT Project {anchor=false}
 A real-time sensor monitoring and recording interface.
 
 {{< button href="/docs/getting-started/installation/" >}}Get Started{{< /button >}}

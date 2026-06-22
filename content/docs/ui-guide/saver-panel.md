@@ -7,9 +7,8 @@ weight: 5
 
 The Saver Panel is the recording control centre of the Session Manager. From here you can **select which ROS topics to record** and **start or stop a recording session**.
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *Full Saver Panel view showing topic list, Send button, and recording controls*
-{{< /hint >}}
+{{< figure src="/images/SaverPanel.jpg" alt="Saver Panel" >}}
+
 
 ---
 
@@ -25,9 +24,8 @@ The panel is divided into three sections from top to bottom:
 
 ## Topic Configuration
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *Topic Configuration section with a list of topics and their active status badges*
-{{< /hint >}}
+{{< figure src="/images/TopicConfig.jpg" alt="Topic Configuration" >}}
+
 
 ### Topic List
 
@@ -47,23 +45,18 @@ The topic list is fetched from the backend every **5 seconds** and shows all cur
 
 ### Sending the Configuration
 
+{{< figure src="/images/Send.jpg" alt="Topic Configuration" >}}
+
 After making your selection, click **Send**. The status message at the bottom of the panel will confirm the configuration was accepted by the backend.
 
-{{< hint warning >}}
-⚠️ You must click **Send** every time you change the topic selection. Changes are not applied automatically.
-{{< /hint >}}
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *Send button highlighted, status message confirming topics updated*
-{{< /hint >}}
 
 ---
 
 ## Recording Controls
 
-{{< hint info >}}
-📸 **Screenshot placeholder** — *START and STOP buttons side by side, LED indicator visible next to the heading*
-{{< /hint >}}
+{{< figure src="/images/StartStop.jpg" alt="Topic Configuration" >}}
+
 
 ### LED Indicator
 
@@ -81,7 +74,7 @@ The recording status is also polled from the backend every **5 seconds**, so if 
 Click **START** to begin recording the configured topics. The LED will turn green and the status message will update to confirm.
 
 {{< hint warning >}}
-⚠️ Make sure you have sent your topic configuration (clicked **Send**) before pressing START. Starting a recording without sending a configuration will record all available topics by default.
+⚠️ Make sure you have sent your topic configuration (clicked <b>Send</b>) before pressing START. Starting a recording without sending a configuration will record all available topics by default.
 {{< /hint >}}
 
 ### STOP Button
@@ -101,7 +94,7 @@ The yellow status bar at the bottom of the panel displays feedback messages from
 | Error | *"Failed to contact backend."* / *"Failed to load topics from backend."* |
 
 {{< hint info >}}
-📸 **Screenshot placeholder** — *Yellow status bar showing a success message after clicking START*
+Screenshot placeholder — Yellow status bar showing a success message after clicking START
 {{< /hint >}}
 
 ---
