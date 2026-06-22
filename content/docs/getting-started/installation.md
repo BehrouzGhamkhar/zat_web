@@ -16,7 +16,7 @@ Before installing the Session Manager UI, make sure the following are available 
 | Node.js | v18.0.0 | LTS version recommended |
 | npm | v9.0.0 | Comes bundled with Node.js |
 | Git | any recent version | For cloning the repository |
-| A modern browser | Chrome 110+ / Firefox 110+ | Required for Plotly rendering |
+| A modern browser | Chrome  / Firefox | Required for Plotly rendering |
 
 > **Tip:** You can check your installed versions by running `node -v` and `npm -v` in a terminal.
 
