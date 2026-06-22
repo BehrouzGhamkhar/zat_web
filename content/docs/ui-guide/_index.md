@@ -18,7 +18,7 @@ The interface is divided into two areas:
 - **Main Content Area** — displays the active page (graphs, controls, etc.)
 
 {{< hint info >}}
-📸 **Screenshot placeholder** — *Full app layout showing side panel and main content area*
+Screenshot placeholder — Full app layout showing side panel and main content area
 {{< /hint >}}
 
 ## Pages at a Glance
